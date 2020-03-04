@@ -17,6 +17,11 @@ Pattern Recognition algorithms & methods:
 Some of the classification and clusterization results are shown below.
 Directory named 'images' contains all results.
 
-Solarized dark             |  Solarized Ocean
+#### Some classification results
+Hypothesis tests            |  Quadratic classifier
 :-------------------------:|:-------------------------:
-![Hypothesis tests](images/hypothesis_tests.png "Hypothesis tests")  |  ![Quadratic classifier](images/quadratic_classifier.png "Quadratic classifiers")
+![Hypothesis tests](images/classifiers/hypothesis_tests.png "Hypothesis tests")  |  ![Quadratic classifier](images/classifiers/quadratic_classifier.png "Quadratic classifiers")
+
+#### Some clusterization results
+:-------------------------:|:-------------------------:
+![K-means Results](images/clusterization/kmeans_4_clusters.png "K-means result")  |  ![Elbow method](images/clusterization/kmeans_elbow_method.png "Elbow method applied to K-means")
